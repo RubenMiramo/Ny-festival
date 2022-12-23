@@ -1,0 +1,60 @@
+header {
+    text-align: center;
+    background-color: gray;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+
+h1 {
+    color: gold;
+    font-size: 34px;
+}
+
+.container {
+    max-width: 940px;
+    margin: 30px auto;
+    max-height: 800px;
+    color: goldenrod;
+    font-size: 30px;
+    padding-bottom: 300px;
+}
+
+.left {
+    width: 150px;
+}
+
+body {
+    background-image: url('./images/Younger-PopSmoke2.webp');
+}
+
+table {
+     text-align: center;
+     margin: 20px auto;
+}
+
+td {
+    border: 4px solid goldenrod;
+    width: 400px;
+}
+
+footer {
+    color: gold;
+    text-align: center;
+    width: 100%;
+    background-color: #242f44;
+    position: fixed;
+    bottom: 0;
+}
+
+footer h3 {
+     display: inline-block
+}
+
+
+
+
+
+
+
